@@ -1,3 +1,0 @@
-mybranch
-test
-pushing
